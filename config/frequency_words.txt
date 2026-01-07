@@ -1,73 +1,257 @@
-/胖东来|于东来/ => 胖东来
-
-/DeepSeek|梁文锋/i => DeepSeek
-
-/华为|鸿蒙|HarmonyOS|任正非/i => 华为
-
-/比亚迪|王传福/ => 比亚迪
-
-/大疆|\bDJI\b/i => 大疆
-
-/宇树|王兴兴/ => 宇树机器人
-
-/智元|灵犀|稚晖君|彭志辉/ => 智元机器人
-
-/黑神话|冯骥/ => 黑神话悟空
-
-/影之刃零|梁其伟/ => 影之刃零
-
-/哪吒|杨宇/ => 哪吒电影
-!车
-!餐
-
-/三体|流浪地球|刘慈欣|郭帆/ => 三体/流浪地球
-
-申奥
-
-/京东|刘强东/ => 京东
-
-/字节|bytedance|张一鸣/i => 字节跳动
-
-/特斯拉|马斯克/ => 特斯拉
-
-/微软|\bMicrosoft\b/i => 微软
-
-/英伟达|\bNVIDIA\b|黄仁勋/i => 英伟达
-
-/\bAMD\b/i => AMD
-
-/谷歌|\bgoogle\b|\bgemini\b|\bdeepMind\b/i => 谷歌
-
-/\bchatgpt\b|\bopenai\b|\bsora\b/i => OpenAI
-
-/\bclaude\b|Anthropic/i => Claude
-
-/\biphone\b|\bipad\b|\bmac\b|\bios\b/i => 苹果产品
-
-/(?<![a-zA-Z])ai(?![a-zA-Z])/i => AI 相关
+# ===== 大模型 & AI =====
+大模型
+agent
+MCP
+AI
+!gai
 人工智能
-
+Chatgpt
+OpenAI
+Anthropic
+Claude
+Google
+Gemini
+DeepSeek
+Kimi
+Minimax
+字节
+火山引擎
+腾讯
+QWen
+千问
+豆包
+元宝
+夸克
+X.com
+Grok
+Midjourney
+Nanobanana
+LLM
+ChatGPT
+GPT-4
+GPT-4o
+Claude
+Gemini
+Llama
+通义千问
+文心一言
+Kimi
++发布
++开源
++融资
+!课程
+!培训
+!广告
+# ===== 通用 AI 技术 =====
+可灵
+剪映
+混元
+skyreal
+Veo
+AI视频
+AI音频
+TTS
+声音克隆
+Context Engine
+Prompt
+提示词
+硅基流动
+siliconflow
+Openrouter
+MiniCPM
+deepmind
+sora
+数字人
+数字分身
+github人工智能
+AI
+AIGC
+AGI
+机器学习
+深度学习
+神经网络
+Transformer
+Diffusion
++技术
++突破
++论文
+!玄幻
+!小说
+!广告
+# ===== 科技前沿 =====
+智能眼镜
+智能设备
+AI陪伴
+量子计算
+生物医疗科技
+芯片
+半导体
+量子计算
+脑机接口
 自动驾驶
-
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
+SpaceX
+苹果发布会
+华为Mate
+小米14
++发布
++评测
+!二手
+!维修
+# ===== 时政要闻 =====
+时政
+两会
+国务院
+外交部
+国防部
+中美
+中欧
+中俄
+台湾
+香港
++最新
++声明
++制裁
+!小说
+!娱乐
+# ===== 宏观经济 =====
+经济
+GDP
+CPI
+PPI
+PMI
+央行
+美联储
+加息
+降息
+汇率
+人民币
+美元
+房地产
+股市
+A股
++数据
++涨跌
++政策
+!预测
+!荐股
+# ===== 中美科技巨头 =====
+苹果
+iPhone
+iPad
+Mac
+iOS
++发布
+微软
+Microsoft
+Xbox
++发布
+谷歌
+Google
+Gemini
+DeepMind
++发布
+英伟达
+NVIDIA
+黄仁勋
++发布
++财报
+AMD
++发布
++财报
+特斯拉
+Tesla
+马斯克
++发布
++财报
+# ===== AI 大模型 =====
+OpenAI
+ChatGPT
+Sora
++发布
++开源
+Claude
+Anthropic
++发布
+DeepSeek
+梁文锋
++发布
++融资
+字节跳动
+ByteDance
+张一鸣
+Seed
++发布
++融资
+# ===== 国产硬科技 =====
+华为
+鸿蒙
+HarmonyOS
+任正非
++发布
++手机
+比亚迪
+王传福
++发布
++销量
+大疆
+DJI
++发布
++新品
+宇树
+王兴兴
++发布
++机器人
+智元
+灵犀
+稚晖君
+彭志辉
++发布
++机器人
+# ===== 半导体 =====
 芯片
 光刻机
-
-科技
-
++国产
++突破
+# ===== 新能源 & 交通 =====
+自动驾驶
++测试
++政策
+新质生产力
++政策
++数据
+# ===== 航天 =====
+月球
+登月
+火星
+宇宙
+飞船
++发射
++任务
+# ===== 能源基建 =====
 核能
-
 水电站
 雅鲁藏布江
-
-新质生产力
-
-/月球|登月|火星|宇宙|飞船|航空/ => 航天航空
++开工
++竣工
+自动驾驶
+芯片
+光刻机
+算力
+能源
+GPU
+电池
+储能
+新能源
+核能
+月球
+登月
+火星
+宇宙
+飞船
+航空
+基因工程
+# ===== 医疗 =====
+罕见病
+戈谢病
++医保政策
